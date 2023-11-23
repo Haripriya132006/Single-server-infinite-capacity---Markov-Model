@@ -19,6 +19,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 
  
@@ -52,9 +53,10 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
 ```
-![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
+
 
 ## Output :
+![Screenshot 2023-11-23 091800](https://github.com/Haripriya132006/Single-server-infinite-capacity---Markov-Model/assets/144870747/84b62e7d-077b-4b2e-82c8-e4a693953b05)
 
 ## Result :
 
